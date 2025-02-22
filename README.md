@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guederas
-- 👀 I’m interested in aerospace, computers, cars, video games, technology, movies, learning.
+- 👀 I’m interested in computers, aerospace, cars, video games, technology, movies, learning.
 - 🌱 I’m currently a computer science student seeking to improve my skills through projects.
 - 💞️ I’m looking to collaborate on projects that will help me learn and build a portfolio.
 - 📫 How to reach me: Discord is guederas, my email is jean_guedes_sa@hotmail.com.
