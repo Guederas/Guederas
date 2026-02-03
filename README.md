@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guederas
-- 👀 My passion includes computers and all sorts of cutting-edge technologies. Especially in the areas of healthcare, aerospace, and media technology.
+- 💻 My passion includes computers and all sorts of cutting-edge technologies. Especially in the areas of healthcare, aerospace, and media technology.
 - 🌱 I’m currently a senior computer science student seeking to improve my skills through projects.
 - 💞️ I’m looking to collaborate on projects that will help me learn and build a portfolio.
 <!---
