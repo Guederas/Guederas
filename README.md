@@ -9,11 +9,11 @@ I am a Computer Science student at California State University, Long Beach (grad
 - Looking For: I am actively seeking Fall 2026 Internships and Spring 2027 New-Grad Roles in Software Engineering, AI Engineering, and Application Security.
 
 🛠️ Core Stack & Specialties
-Languages: Python, C++, C#
+- Languages: Python, C++, C#
 
-AI & Data: Keras/TensorFlow, PyTorch, Machine Learning, Data Analytics
+- AI & Data: Keras/TensorFlow, PyTorch, Machine Learning, Data Analytics
 
-Systems & Security: Backend Architecture, Multiplayer Networking (FishNet/Unity), Application Security
+- Systems & Security: Backend Architecture, Multiplayer Networking (FishNet/Unity), Application Security
 
 📫 Let's Connect
 I'm always looking to collaborate on projects that push the boundaries of fun, cutting-edge tech. Feel free to explore my pinned repositories below!
