@@ -1,22 +1,37 @@
-### 👋 Hi there, I'm @Guederas
-I am a Computer Science student at California State University, Long Beach (graduating December 2026), with a deep focus on Artificial Intelligence and Cybersecurity. I love exploring how software shapes the future across diverse industries—from EVs and aerospace to healthcare and modern media.
+### 👋 Hi, I'm Jean!
+I'm a Computer Science student at California State University, Long Beach, graduating in December 2026.
 
-#### 🚀 What I'm Up To
-- **Building**: I am currently engineering multiplayer network architecture for a first-person shooter using C++ and Unity.
+I'm interested in cybersecurity, computer networks, and machine learning. I enjoy working on projects that challenge me to learn new technologies and better understand how different systems work.
 
-- **Researching**: Exploring media integrity and security through my recent work on a Python deepfake detection dataset.
 
-- **Looking For**: I am actively seeking Fall 2026 Internships and Spring 2027 New-Grad Roles in Software Engineering, AI Engineering, and Application Security.
+#### 🚀 What I'm Working On
+- **Multiplayer FPS:** Developing a multiplayer game for my senior capstone using Unity and C#, focusing on networking, synchronization, and anti-cheat systems.
 
-#### 🛠️ Core Stack & Specialties
-- **Languages**: Python, C++, C#
+- **Botnet Simulation:** Starting a project for my Dynamic Networks class to simulate malware propagation and network defense strategies using Python and NetworkX.
 
-- **AI & Data**: Keras/TensorFlow, PyTorch, Machine Learning, Data Analytics
 
-- **Systems & Security**: Backend Architecture, Multiplayer Networking (FishNet/Unity), Application Security, Network Security
+#### 🛠️ Technical Skills
+- **Languages:** Python, C, C++, C#, Java, SQL
+
+- **Machine Learning:** PyTorch, TensorFlow/Keras, PyTorch, Scikit-Learn
+
+- **Systems & Security:** Linux, Git, Docker, Wireshark, Nmap, GNS3, GDB
+
+- **Frameworks & Databases:** Flask, Streamlit, PostgreSQL, MongoDB
+
+
+#### 💻 Projects
+[MediBuddy -- AI Healthcare Navigator](https://github.com/Guederas/cecs451-project-medibuddy)
+An Application that combines machine learning and LLM-generated summaries to help users compare healthcare providers and estimate medical costs.
+
+[Pneumonia Detection CNN](https://github.com/Guederas/cecs-456-pneumonia-cnn)
+A convolutional neural network trained to classify pediatric chest X-rays as normal or pneumonia.
+
 
 #### 📫 Let's Connect
-I'm always looking to collaborate on projects that push the boundaries of fun, cutting-edge tech. Feel free to explore my pinned repositories below!
+I'm interested in opportunities in cybersecurity, AI/ML, and software engineering.
+
+[LinkedIn](https://linkedin.com/in/jean-harden-guedes)
 
 <!---
 Guederas/Guederas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
