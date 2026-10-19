@@ -21,10 +21,10 @@ I'm interested in cybersecurity, computer networks, and machine learning. I enjo
 
 
 #### 💻 Projects
-[MediBuddy -- AI Healthcare Navigator](https://github.com/Guederas/cecs451-project-medibuddy)
+[MediBuddy -- AI Healthcare Navigator](https://github.com/Guederas/cecs451-project-medibuddy)\
 An Application that combines machine learning and LLM-generated summaries to help users compare healthcare providers and estimate medical costs.
 
-[Pneumonia Detection CNN](https://github.com/Guederas/cecs-456-pneumonia-cnn)
+[Pneumonia Detection CNN](https://github.com/Guederas/cecs-456-pneumonia-cnn)\
 A convolutional neural network trained to classify pediatric chest X-rays as normal or pneumonia.
 
 
